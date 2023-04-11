@@ -1,0 +1,20 @@
+p {
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: aqua;
+  color: blue;
+}
+
+h1 {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  background-color: rgb(211, 8, 59);
+  color: rgb(233, 14, 14);
+  color: rgb(60, 228, 18);
+}
+h4 {
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: antiquewhite;
+  color: black;
+}
